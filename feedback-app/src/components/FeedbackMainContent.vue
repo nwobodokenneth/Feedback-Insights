@@ -7,6 +7,7 @@
         </div>
       </div>
       <div class="my-4 w-full">
+
         <hr class=" w-full" />
       </div>
       <div class="flex justify-between">
