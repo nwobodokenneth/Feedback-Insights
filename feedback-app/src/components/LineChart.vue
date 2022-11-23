@@ -22,7 +22,7 @@ export default {
           labels: ["January", "February", "March", "April", "May", "June", "July", "Aug", "Sep", "Nov", "Dec"],
           datasets: [
             {
-              label: 'Previous',
+              label: 'Previous Period',
               borderColor: "4262FF",
               data: [600, 400, 620, 300, 200, 600, 230, 300, 200, 200, 100, 1200],
               fill: true,
@@ -35,7 +35,7 @@ export default {
               pointHoverBorderColor: "rgb(74,85,104,0.2)",
             },
             {
-              label: 'Present',
+              label: 'Current Period',
               borderColor: "E1E6FE",
               data: [500, 200, 820, 100, 290, 300, 210, 390, 300, 280, 200, 1100],
               fill: true,
